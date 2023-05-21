@@ -8,4 +8,4 @@ Use React version v16.10.0
 
 ### `npm start`
 
-### `npm run build`
+### run application on http://localhost:3000/
